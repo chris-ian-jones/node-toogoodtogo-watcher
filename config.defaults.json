@@ -19,8 +19,8 @@
       "enabled": false
     },
     "telegram": {
-      "enabled": false,
-      "botToken": "See README",
+      "enabled": true,
+      "botToken": "5528815480:AAEnCFDC59wUqsF0HZCjjYmBmOkSpIygWDo",
       "chats": []
     },
     "ifttt": {
