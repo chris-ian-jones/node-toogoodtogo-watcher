@@ -1,5 +1,5 @@
 {
-  "name": "toogoodtogo-watcher",
+  "name": "toogoodtogo-watcher-cj",
   "version": "3.9.0",
   "description": "Node.js cli tool for monitoring your favorite TooGoodToGo businesses.",
   "main": "index.js",
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/marklagendijk/node-toogoodtogo-watcher#readme",
   "preferGlobal": true,
   "bin": {
-    "toogoodtogo-watcher": "index.js"
+    "toogoodtogo-watcher-cj": "index.js"
   },
   "dependencies": {
     "conf": "^10.0.3",
